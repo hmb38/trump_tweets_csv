@@ -20,11 +20,7 @@ with open('trumptweets.csv', encoding="utf8") as csvfile:
     print(row_count)
     
 
-# in order to run this programme you will need to install textblob in console
-# pip install textblob
 
-# to enable noun phrase and other analyses, we installed a further package in console
-# python -m textblob.download_corpora
 
 
 
